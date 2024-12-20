@@ -6,4 +6,6 @@ Very simple Logrotate script, mainly built for IIS, Tomcat or oder simple script
 
 ## Setup
 `git clone https://github.com/DATA-Systems/simple-logpacker`
+
 Edit `pack_logs.cmd` according to your needs.
+
